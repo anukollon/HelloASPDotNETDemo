@@ -17,6 +17,7 @@ namespace HelloASPDotNET.Controllers
         {
             _logger = logger;
         }
+        //GET: /<controller>/
 
         public IActionResult Index()
         {
